@@ -61,7 +61,7 @@ class RegularCalculatorViewModel : UIView {
                     button.backgroundColor = UIColor.orange
                 case 6:
                     button.setTitleColor(.red, for: .normal)
-                    button.backgroundColor = UIColor.orange
+                    button.backgroundColor = UIColor.black
                     
                 case 7...8:
                     button.setTitleColor(.black, for: .normal)
